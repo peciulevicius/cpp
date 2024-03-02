@@ -1,0 +1,4 @@
+Hello, World!
+This is a simple text file.
+It contains several lines of text.
+Each line is read and printed out by the C++ program.
